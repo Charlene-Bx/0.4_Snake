@@ -1,0 +1,15 @@
+// * *  V A R I A  B L E S   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+$blanc:#fff8e7;
+$vert:#8db16c;
+$orange: #df953a;
+$bleu: #2c3e50;
+
+// * *  M I X I N S   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+body{
+    background-color:$blanc;
+}
+
+canvas{
+    background-color:$bleu;
+    margin:auto;
+}
